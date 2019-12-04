@@ -22,5 +22,7 @@ h1{
 - [x] wrote the first h1 tag
 - [x] connected my css to HTML file
 - [] change the background color
+> Written on a keyboard
+> - Harpreet 
 
-made with :heart: in MAD9013
+Made with | :heart: | in MAD9013
