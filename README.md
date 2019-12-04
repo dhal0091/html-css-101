@@ -5,7 +5,7 @@
 * Basic of Html
 * How to connect css file
 
-![alt](img/htmlcss.png)
+![alt](img2/htmlcss.png)
 
 javascript snippet
 ```javascript
